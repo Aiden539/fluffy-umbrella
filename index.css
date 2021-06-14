@@ -1,0 +1,23 @@
+p {
+
+	padding: 30px;
+	background-color: orangered;
+
+	font-size: 25px;
+}
+h1 {
+	padding: 50px;
+	background-color: goldenrod;
+}
+
+h2{
+border: 10px solid blue; 
+	padding: 30px;
+	background-color: darkred;
+}
+
+ol{
+
+	padding: 30px;
+	background-color: darkslategray;
+}
